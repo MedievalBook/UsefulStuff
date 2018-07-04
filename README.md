@@ -1,27 +1,32 @@
 # Awesome Projects From Around Github
 _A repository filled with useful stuff ready to fork & play!_
 
+
 ### Gregorio
-__A typesetting tool that allows you to transcribe Gregorian chant scores digitally.__
+A typesetting tool that allows you to transcribe Gregorian chant scores digitally.
 
 https://github.com/gregorio-project/gregorio
 
+
 ### Remarkable
-__A dedicated Markdown editor for Linux and Windows.__
+A dedicated Markdown editor for Linux and Windows.
 
 https://github.com/jamiemcg/Remarkable
 
+
 ### Sexy Codicology's Digital Manuscript Map
-__A clean interactive map tool for exploring medieval archives worldwide.__
+A clean interactive map tool for exploring medieval archives worldwide.
 
 https://github.com/SexyCodicology/DMMapp
 
+
 ### Markdown Cheatsheet
-__A handy reference for Markdown beginners.__
+A handy reference for Markdown beginners.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+
 ### Bodleian's Manifest Editor
-__This web application allows you to easily create IIIF Manifests__
+This web application allows you to easily create IIIF Manifests
 
 https://github.com/bodleian/iiif-manifest-editor
