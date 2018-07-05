@@ -30,3 +30,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 This web application allows you to easily create IIIF Manifests
 
 https://github.com/bodleian/iiif-manifest-editor
+
+
+### Emoji Reference Sheet for Markdown
+This is a complete list of github markdown emoticon codes
+
+https://gist.github.com/rxaviers/7360908
