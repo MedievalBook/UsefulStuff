@@ -36,3 +36,8 @@ https://github.com/bodleian/iiif-manifest-editor
 This is a complete list of github markdown emoticon codes
 
 https://gist.github.com/rxaviers/7360908
+
+### TEI Consortium
+This is a github for TEI resources such as: guidelines, customization tools, and stylesheets.
+
+https://github.com/TEIC
